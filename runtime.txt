@@ -1,0 +1,6 @@
+#tell heroku what version oh python runtime you are using
+#may not need this file if we are deploying to heroku
+#make sure this is the same as the python version used to compile this app, use python --version to check
+
+
+#python-3.9.13
